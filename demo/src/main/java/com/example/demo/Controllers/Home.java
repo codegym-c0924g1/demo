@@ -1,5 +1,5 @@
 package com.example.demo.Controllers;
 
 public class Home {
-    private String name = "Dung";
+    private String name = "DungNguyen";
 }
